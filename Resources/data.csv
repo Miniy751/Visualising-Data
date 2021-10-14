@@ -1,0 +1,101 @@
+rank,address,ratings,restaurants,location
+1,"11 Rose Mount, Oxton, Birkenhead, CH43 5SG",4.8,Fraiche,Birkenhead
+2,"8-9 Blacklands Terrace, London, SW3 2SP",4.7,The Five Fields,London
+3,"42 Blossom Street, Ancoats, Manchester, M4 6BF",4.7,Mana,Manchester
+4,"Lenton Lane, Trentside, Nottingham, NG7 2SA",4.7,Restaurant Sat Bains,Nottingham
+5,"Prescot Road, Aughton, Ormskirk, L39 6RT",4.8,Moor Hall,Ormskirk
+6,"Hambleton, Oakham, LE15 8TH",4.8,Hambleton Hall,Oakham
+7,"127 Ledbury Road, London, W11 2AQ",4.7,The Ledbury,London
+8,"70 Charlotte St, London, W1T 4QG",4.6,Kitchen Table,London
+9,"92 Kensington Park Road, London, W11 2PN",4.7,Core by Clare Smyth,London
+10,"The General, Lower Guinea Street, Bristol, BS1 6FU",4.8,Casamia,Bristol
+11,"6 New Road, Port Isaac, PL29 3SB",4.7,Outlaw's New Road,Port Isaac
+12,"Cavendish St, Cartmel, LA11 6PZ",4.8,L'Enclume,Cartmel
+13,"14-16 Bruton Place, London, W1J 6LX",4.3,Umu,London
+14,"Ferry Road, Bray, SL6 2AT",4.8,The Waterside Inn,Bray
+15,"Church Road, Great Milton, Oxford, OX44 7PD",4.8,Belmond Le Manoir aux Quat' Saisons,Oxford
+16,"196 Church Road, Hove, BN3 2DJ",4.8,Etch,Hove
+17,"41 Redchurch Street, London, E2 7DJ",4.4,Maos,London
+18,"8th Floor, W12 7FR",4.8,Endo at the Rotunda,London
+19,"Peter Street, Manchester, M60 2DS",4.7,Adam Reid at The French,Manchester
+20,"Clarence Parade, Cheltenham, GL50 3PA",4.9,Lumiere,Cheltenham
+21,"12 New Burlington Street, Mayfair, London, W1S 3BH",4.5,The Araki,London
+22,closed,nil,Texture [CLOSED],London
+23,"17 Bruton Street, London, W1J 6QB",4.4,Hakkasan Mayfair,London
+24,"1 Silver Street, Winteringham, DN15 9ND",4.7,Winteringham Fields,Winteringham
+25,"Shiplake Row, Binfield Heath, Henley-on-thames, RG9 4DP",4.6,Orwells,Henley-on-thames
+26,"12 Jerusalem Passage, London, EC1V 4JP",4.8,Sushi Tetsu,London
+27,"Halkin Arcade, Motcomb Street, London, SW1X 8JT",4.3,Amaya,London
+28,"The Gleneagles Hotel, Auchterarder, PH3 1NF",4.8,Restaurant Andrew Fairlie at Gleneagles,Auchterarder
+29,"New Oxford House, 16 Waterloo Street, Birmingham, B2 5UG",4.8,Adam's,Birmingham
+30,"10 Upper Market Street, Hove, BN3 1AS",4.8,The Little Fish Market,Hove
+31,"54 The Shore, Leith, Edinburgh, EH6 6RA",4.7,Restaurant Martin Wishart,Edinburgh
+32,closed,nil,Roganic [CLOSED],London
+33,"37 Walmgate, York, YO1 9TX",4.8,Le Cochon Aveugle,York
+34,"42 Albemarle Street, London, W1S 4JH",4.5,Gymkhana,London
+35,"Cowan Bridge, Kirkby Lonsdale, LA6 2JJ",4.8,Hipping Hall,Kirkby Lonsdale
+36,"447 Kingston Road, Ewell, Epsom, KT19 0DB",4.7,Dastaan,Epsom
+37,"28-30 The Close, Newcastle Upon Tyne, NE1 3RF",4.7,House of Tides,Newcastle Upon Tyne
+38,"77 South Street, Dorking, RH4 2JU",4.9,Sorrel,Dorking
+39,closed,nil,Indian Accent [CLOSED],London
+40,"Morston, Holt, Blakeney, NR25 7AA",4.9,Morston Hall,Blakeney
+41,"Peat Inn, St Andrews, KY15 5LH",4.8,The Peat Inn,St Andrews
+42,"85 Old Hunstanton Road, Old Hunstanton, Hunstanton, PE36 6HZ",4.8,The Neptune Restaurant with Rooms,Hunstanton
+43,"48 Summer Row, Birmingham, B3 1JJ",4.6,Opheem,Birmingham
+44,"9 Market Square, Old Amersham, Amersham, HP7 0DF",4.6,The Artichoke,Amersham
+45,"Trinity House, 1 High Street, Menai Bridge, LL59 5EE",4.8,Sosban and The Old Butcher's,Menai Bridge
+46,"43 Upper Brook Street, London, W1K 7QR",4.6,Le Gavroche,London
+47,"10 Trinity Square, London, EC3N 4AJ",4.6,La Dame de Pic London,London
+48,"5 Raphael Street, Knightsbridge, London, SW7 1DL",4.6,Zuma,London
+49,"1647 King Street, Sturry, Canterbury, CT2 0DB",4.4,Fordwich Arms,Canterbury
+50,"Courtlands Lane, Exmouth, EX8 3NZ",4.7,Lympstone Manor,Exmouth
+51,"Lake Road, Ambleside, LA22 0AD",4.8,Lake Road Kitchen,Ambleside
+52,"55 Cornwall Street, Birmingham, B3 2DH",4.7,Purnell's,Birmingham
+53,"16 Rodney Street, Liverpool, L1 2TE",4.8,Roski,Liverpool
+54,"6 Middle Street, Padstow, PL28 8AP",4.8,Paul Ainsworth at No. 6,Padstow
+55,"Summerhouse, Darlington, DL2 3UD",4.7,Raby Hunt,Darlington
+56,"Whitebrook, Monmouth, NP25 4TX",4.7,The Whitebrook,Monmouth
+57,"Green Street, St Helier, Jersey, JE2 4UH",4.5,Bohemia,Jersey
+58,"1 Oscar Road, Broadstairs, CT10 1QJ",4.9,Stark,Broadstairs
+59,"54 Brooks Mews, London, W1K 4EG",4.6,La Petite Maison,London
+60,"3 Royal Terrace, Edinburgh, EH7 5AB",4.3,21212,Edinburgh
+61,closed,nil,AW Restaurant at The Westbury Mayfair Hotel [CLOSED],London
+62,"1 St. James's Market, London, SW1Y 4AH",4.5,Ikoyi,London
+63,"Eglwys Fach, Machynlleth, SY20 8TA",4.8,Ynyshir,Machynlleth
+64,"51 Pimlico Road, London, SW1W 8NE",4.4,Hunan,London
+65,"70 Wilton Road, Victoria, London, SW1V 1DE",4.4,A. Wong,London
+66,"37 Charlotte Street, London, W1T 1RR",4.4,Roka Charlotte Street,London
+67,"2 Bellevue Road, Wandsworth Common, London, SW17 7EG",4.8,Chez Bruce,London
+68,"19-21 Angel Hill, Bury St Edmunds, IP33 1UZ",4.7,1921 Angel Hill,Bury St Edmunds
+69,"43 Elystan Street, Chelsea, London, SW3 3NT",4.7,Elystan Street,London
+70,closed,nil,Street XO [CLOSED],London
+71,closed,nil,Ooty [CLOSED],London
+72,"Oldstead, York, YO61 4BL",4.8,The Black Swan at Oldstead,York
+73,closed,nil,Restaurant MCR [CLOSED],Manchester
+74,"Vowels Lane, West Hoathly, East Grinstead, RH19 4LJ",4.8,Gravetye Manor Hotel,East Grinstead
+75,"1 Princes Street, Edinburgh, EH2 2EQ",4.6,Number One at The Balmoral,Edinburgh
+76,"119 Brockley Rise, Forest Hill, London, SE23 1JP",4.6,Babur,London
+77,closed,nil,The Blackbird [CLOSED],Bagnor
+78,"Faversham Road, Seasalter, Whitstable, CT5 4BP",4.6,The Sportsman,Whitstable
+79,"57 West Smithfields, London, EC1A 9DS",4.6,Club Gascon,London
+80,"Moorbottom Lane, Norland, Sowerby Bridge, HX6 3RP",4.7,The Moorcock Inn,Sowerby Bridge
+81,"Northcote Road, Langho, Blackburn, BB6 8BE",4.7,Northcote,Blackburn
+82,closed,nil,The Frog Hoxton [CLOSED],London
+83,"Midsummer Common, Cambridge, CB4 1HA",4.7,Midsummer House,Cambridge
+84,"4 The Polygon, Clapham, London, SW4 0JG",4.7,Trinity Restaurant,London
+85,"22 Charlotte Street, London, W1T 2NB",4.5,The Ninth,London
+86,"209 Westbourne Park Road, London, W11 1EA",4.8,Caractere,London
+87,"98 Micklegate, York, YO1 6JX",4.8,Skosh,York
+88,"7-8 Park Place, London, SW1A 1LS",4.5,Seven Park Place by William Drabble,London
+89,"176-178 Petts Wood Road, Petts Wood, London, BR5 1LG",4.5,Indian Essence,London
+90,"5-7 Devonshire Road, Chiswick, London, W4 2EU",4.6,La Trompette,London
+91,"Ferrymans Way, Portland Road, Wyke Regis, DT4 9YU",4.7,Crab House Cafe,Wyke Regis
+92,"294 Shalesmoor, Sheffield, S3 8US",4.7,Joro,Sheffield
+93,"1 Wilbraham Place, London, SW1X 9AE",4.4,Kahani,London
+94,"7-12 Half Moon Street, Mayfair, London, W1J 7BH",4.7,Ormer Mayfair,London
+95,"35-37 Church Street, Ilkley, LS29 9DR",4.7,Box Tree,Ilkley
+96,"16 Neal's Yard, Bloomsbury, London, WC2H 9DP",4.6,The Barbary,London
+97,"139-141 Loughborough Road, Mountsorrel, LE12 7AR",4.9,John's House,Mountsorrel
+98,"8-10 Pollen Street, London, W1S 1NQ",4.6,Pollen Street Social,London
+99,"Ranters Lane, Kilndown, Cranbrook, TN17 2SG",4.6,The Small Holding,Cranbrook
+100,"15-17 Blandford Street, London, W1U 3DG",4.3,Trishna,London
