@@ -1,0 +1,101 @@
+rank,restaurant_name,location,address,ratings,lat_long,lat,long
+1,Fraiche,Birkenhead,"11 Rose Mount, Oxton, Birkenhead, CH43 5SG",4.8,"(53.38200, -3.043080)",53.382,-3.04308
+2,The Five Fields,London,"8-9 Blacklands Terrace, London, SW3 2SP",4.7,"(51.4917193, -0.1612992)",51.4917193,-0.1612992
+3,Mana,Manchester,"42 Blossom Street, Ancoats, Manchester, M4 6BF",4.7,"(53.4848285, -2.2279954)",53.4848285,-2.2279954
+4,Restaurant Sat Bains,Nottingham,"Lenton Lane, Trentside, Nottingham, NG7 2SA",4.7,"(52.92526, -1.16777)",52.92526,-1.16777
+5,Moor Hall,Ormskirk,"Prescot Road, Aughton, Ormskirk, L39 6RT",4.8,"( 53.5499659, -2.8990735)",53.5499659,-2.8990735
+6,Hambleton Hall,Oakham,"Hambleton, Oakham, LE15 8TH",4.8,"(52.6573713, -0.6682024)",52.6573713,-0.6682024
+7,The Ledbury,London,"127 Ledbury Road, London, W11 2AQ",4.7,"(51.5166794, -0.2000637)",51.5166794,-0.2000637
+8,Kitchen Table,London,"70 Charlotte St, London, W1T 4QG",4.6,"(51.5207557, -0.1370935)",51.5207557,-0.1370935
+9,Core by Clare Smyth,London,"92 Kensington Park Road, London, W11 2PN",4.7,"(51.5127194, -0.2031072)",51.5127194,-0.2031072
+10,Casamia,Bristol,"The General, Lower Guinea Street, Bristol, BS1 6FU",4.8,"(51.4472332, -2.5940292)",51.4472332,-2.5940292
+11,Outlaw's New Road,Port Isaac,"6 New Road, Port Isaac, PL29 3SB",4.7,"(50.5941778, -4.828714829985408)",50.5941778,-4.828714829985408
+12,L'Enclume,Cartmel,"Cavendish St, Cartmel, LA11 6PZ",4.8,"( 54.2018975, -2.9533433)",54.2018975,-2.9533433
+13,Umu,London,"14-16 Bruton Place, London, W1J 6LX",4.3,"(51.511358, -0.1443836)",51.511358,-0.1443836
+14,The Waterside Inn,Bray,"Ferry Road, Bray, SL6 2AT",4.8,"(51.5086565, -0.699862)",51.5086565,-0.699862
+15,Belmond Le Manoir aux Quat' Saisons,Oxford,"Church Road, Great Milton, Oxford, OX44 7PD",4.8,"(51.716791,  -1.09105641)",51.716791,-1.09105641
+16,Etch,Hove,"196 Church Road, Hove, BN3 2DJ",4.8,"(50.8284983, -0.177725)",50.8284983,-0.177725
+17,Maos,London,"41 Redchurch Street, London, E2 7DJ",4.4,"(51.5244892, -0.07522624363215746)",51.5244892,-0.07522624363215746
+18,Endo at the Rotunda,London,"8th Floor, W12 7FR",4.8,"( 51.510438,   -0.22565027)",51.510438,-0.22565027
+19,Adam Reid at The French,Manchester,"Peter Street, Manchester, M60 2DS",4.7,"(53.4776963, -2.2447867)",53.4776963,-2.2447867
+20,Lumiere,Cheltenham,"Clarence Parade, Cheltenham, GL50 3PA",4.9,"(51.9007279, -2.0767203)",51.9007279,-2.0767203
+21,The Araki,London,"12 New Burlington Street, Mayfair, London, W1S 3BH",4.5,"(51.5117878, -0.1402334)",51.5117878,-0.1402334
+22,Texture [CLOSED],London,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+23,Hakkasan Mayfair,London,"17 Bruton Street, London, W1J 6QB",4.4,"(51.5105247, -0.1446711)",51.5105247,-0.1446711
+24,Winteringham Fields,Winteringham,"1 Silver Street, Winteringham, DN15 9ND",4.7,"(  53.687777, -0.5894838)",53.687777,-0.5894838
+25,Orwells,Henley-on-thames,"Shiplake Row, Binfield Heath, Henley-on-thames, RG9 4DP",4.6,"( 51.500862, -0.9104676)",51.500862,-0.9104676
+26,Sushi Tetsu,London,"12 Jerusalem Passage, London, EC1V 4JP",4.8,"(51.52328445, -0.10404426920103124)",51.52328445,-0.10404426920103124
+27,Amaya,London,"Halkin Arcade, Motcomb Street, London, SW1X 8JT",4.3,"( 51.499189, -0.1569930)",51.499189,-0.156993
+28,Restaurant Andrew Fairlie at Gleneagles,Auchterarder,"The Gleneagles Hotel, Auchterarder, PH3 1NF",4.8,"(56.2834115, -3.7517463916286036)",56.2834115,-3.7517463916286036
+29,Adam's,Birmingham,"New Oxford House, 16 Waterloo Street, Birmingham, B2 5UG",4.8,"(52.4797973, -1.9014144878735653)",52.4797973,-1.9014144878735653
+30,The Little Fish Market,Hove,"10 Upper Market Street, Hove, BN3 1AS",4.8,"(50.8248834, -0.1573958)",50.8248834,-0.1573958
+31,Restaurant Martin Wishart,Edinburgh,"54 The Shore, Leith, Edinburgh, EH6 6RA",4.7,"(55.975436, -3.1704432)",55.975436,-3.1704432
+32,Roganic [CLOSED],London,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+33,Le Cochon Aveugle,York,"37 Walmgate, York, YO1 9TX",4.8,"(53.9569208, -1.0763055)",53.9569208,-1.0763055
+34,Gymkhana,London,"42 Albemarle Street, London, W1S 4JH",4.5,"(51.5084811, -0.1414863)",51.5084811,-0.1414863
+35,Hipping Hall,Kirkby Lonsdale,"Cowan Bridge, Kirkby Lonsdale, LA6 2JJ",4.8,"( 54.176776, -2.5474905)",54.176776,-2.5474905
+36,Dastaan,Epsom,"447 Kingston Road, Ewell, Epsom, KT19 0DB",4.7,"(  51.368951, -0.2659405)",51.368951,-0.2659405
+37,House of Tides,Newcastle Upon Tyne,"28-30 The Close, Newcastle Upon Tyne, NE1 3RF",4.7,"(54.967953, -1.6102132)",54.967953,-1.6102132
+38,Sorrel,Dorking,"77 South Street, Dorking, RH4 2JU",4.9,"(51.22868255, -0.33443901355601424)",51.22868255,-0.33443901355601424
+39,Indian Accent [CLOSED],London,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+40,Morston Hall,Blakeney,"Morston, Holt, Blakeney, NR25 7AA",4.9,"(  52.955028, 0.9860007)",52.955028,0.9860007
+41,The Peat Inn,St Andrews,"Peat Inn, St Andrews, KY15 5LH",4.8,"( 56.278357,-2.8841545)",56.278357,-2.8841545
+42,The Neptune Restaurant with Rooms,Hunstanton,"85 Old Hunstanton Road, Old Hunstanton, Hunstanton, PE36 6HZ",4.8,"(52.9509841, 0.5073734)",52.9509841,0.5073734
+43,Opheem,Birmingham,"48 Summer Row, Birmingham, B3 1JJ",4.6,"(52.4815548, -1.9082238)",52.4815548,-1.9082238
+44,The Artichoke,Amersham,"9 Market Square, Old Amersham, Amersham, HP7 0DF",4.6,"(51.6665527, -0.6163335)",51.6665527,-0.6163335
+45,Sosban and The Old Butcher's,Menai Bridge,"Trinity House, 1 High Street, Menai Bridge, LL59 5EE",4.8,"(53.226135,-4.1628596)",53.226135,-4.1628596
+46,Le Gavroche,London,"43 Upper Brook Street, London, W1K 7QR",4.6,"(51.5112595, -0.1552059)",51.5112595,-0.1552059
+47,La Dame de Pic London,London,"10 Trinity Square, London, EC3N 4AJ",4.6,"(51.51030765, -0.07832307118395632)",51.51030765,-0.07832307118395632
+48,Zuma,London,"5 Raphael Street, Knightsbridge, London, SW7 1DL",4.6,"(51.5009278, -0.1631825)",51.5009278,-0.1631825
+49,Fordwich Arms,Canterbury,"1647 King Street, Sturry, Canterbury, CT2 0DB",4.4,"(51.2951414, 1.1253071)",51.2951414,1.1253071
+50,Lympstone Manor,Exmouth,"Courtlands Lane, Exmouth, EX8 3NZ",4.7,"(50.6418105, -3.4197468)",50.6418105,-3.4197468
+51,Lake Road Kitchen,Ambleside,"Lake Road, Ambleside, LA22 0AD",4.8,"(54.4304873, -2.9622948)",54.4304873,-2.9622948
+52,Purnell's,Birmingham,"55 Cornwall Street, Birmingham, B3 2DH",4.7,"(52.4826617, -1.9018277741232703)",52.4826617,-1.9018277741232703
+53,Roski,Liverpool,"16 Rodney Street, Liverpool, L1 2TE",4.8,"(53.4018472, -2.9732715)",53.4018472,-2.9732715
+54,Paul Ainsworth at No. 6,Padstow,"6 Middle Street, Padstow, PL28 8AP",4.8,"(50.541273, -4.9398507)",50.541273,-4.9398507
+55,Raby Hunt,Darlington,"Summerhouse, Darlington, DL2 3UD",4.7,"(54.567402, -1.6888651)",54.567402,-1.6888651
+56,The Whitebrook,Monmouth,"Whitebrook, Monmouth, NP25 4TX",4.7,"(51.759750,-2.6866026)",51.75975,-2.6866026
+57,Bohemia,Jersey,"Green Street, St Helier, Jersey, JE2 4UH",4.5,"(49.181335,-2.1028661)",49.181335,-2.1028661
+58,Stark,Broadstairs,"1 Oscar Road, Broadstairs, CT10 1QJ",4.9,"(51.356740,1.4406849)",51.35674,1.4406849
+59,La Petite Maison,London,"54 Brooks Mews, London, W1K 4EG",4.6,"(51.5126169, -0.1461126)",51.5126169,-0.1461126
+60,21212,Edinburgh,"3 Royal Terrace, Edinburgh, EH7 5AB",4.3,"(55.9567618, -3.1807104)",55.9567618,-3.1807104
+61,AW Restaurant at The Westbury Mayfair Hotel [CLOSED],London,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+62,Ikoyi,London,"1 St. James's Market, London, SW1Y 4AH",4.5,"(51.509203,-0.1332106)",51.509203,-0.1332106
+63,Ynyshir,Machynlleth,"Eglwys Fach, Machynlleth, SY20 8TA",4.8,"(52.545178,-3.9417511)",52.545178,-3.9417511
+64,Hunan,London,"51 Pimlico Road, London, SW1W 8NE",4.4,"(51.49045925, -0.15280410649137816)",51.49045925,-0.15280410649137816
+65,A. Wong,London,"70 Wilton Road, Victoria, London, SW1V 1DE",4.4,"(51.49299785, -0.14053972487560257)",51.49299785,-0.14053972487560257
+66,Roka Charlotte Street,London,"37 Charlotte Street, London, W1T 1RR",4.4,"(51.5194605, -0.1357715)",51.5194605,-0.1357715
+67,Chez Bruce,London,"2 Bellevue Road, Wandsworth Common, London, SW17 7EG",4.8,"(51.446018,-0.1655464)",51.446018,-0.1655464
+68,1921 Angel Hill,Bury St Edmunds,"19-21 Angel Hill, Bury St Edmunds, IP33 1UZ",4.7,"(52.245754399999996, 0.7172300715807112)",52.245754399999996,0.7172300715807112
+69,Elystan Street,London,"43 Elystan Street, Chelsea, London, SW3 3NT",4.7,"(51.4916305, -0.1677674)",51.4916305,-0.1677674
+70,Street XO [CLOSED],London,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+71,Ooty [CLOSED],London,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+72,The Black Swan at Oldstead,York,"Oldstead, York, YO61 4BL",4.8,"(54.212745,-1.1865790)",54.212745,-1.186579
+73,Restaurant MCR [CLOSED],Manchester,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+74,Gravetye Manor Hotel,East Grinstead,"Vowels Lane, West Hoathly, East Grinstead, RH19 4LJ",4.8,"(51.0965057, -0.0612308)",51.0965057,-0.0612308
+75,Number One at The Balmoral,Edinburgh,"1 Princes Street, Edinburgh, EH2 2EQ",4.6,"(55.9529802, -3.1892083)",55.9529802,-3.1892083
+76,Babur,London,"119 Brockley Rise, Forest Hill, London, SE23 1JP",4.6,"(51.447451,-0.0418371)",51.447451,-0.0418371
+77,The Blackbird [CLOSED],Bagnor,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+78,The Sportsman,Whitstable,"Faversham Road, Seasalter, Whitstable, CT5 4BP",4.6,"(51.3462974, 0.9834153)",51.3462974,0.9834153
+79,Club Gascon,London,"57 West Smithfields, London, EC1A 9DS",4.6,"(51.518624, -0.1000500)",51.518624,-0.10005
+80,The Moorcock Inn,Sowerby Bridge,"Moorbottom Lane, Norland, Sowerby Bridge, HX6 3RP",4.7,"(53.692762,-1.9180448)",53.692762,-1.9180448
+81,Northcote,Blackburn,"Northcote Road, Langho, Blackburn, BB6 8BE",4.7,"(53.80922925, -2.4474884720905594)",53.80922925,-2.4474884720905594
+82,The Frog Hoxton [CLOSED],London,closed,closed,"(18.5324119, -68.6732965)",18.5324119,-68.6732965
+83,Midsummer House,Cambridge,"Midsummer Common, Cambridge, CB4 1HA",4.7,"(52.2105227, 0.12954817906232638)",52.2105227,0.12954817906232638
+84,Trinity Restaurant,London,"4 The Polygon, Clapham, London, SW4 0JG",4.7,"(51.4634296, -0.1414943)",51.4634296,-0.1414943
+85,The Ninth,London,"22 Charlotte Street, London, W1T 2NB",4.5,"(51.5187999, -0.13482519999999998)",51.5187999,-0.13482519999999998
+86,Caractere,London,"209 Westbourne Park Road, London, W11 1EA",4.8,"(51.5178482, -0.2008117)",51.5178482,-0.2008117
+87,Skosh,York,"98 Micklegate, York, YO1 6JX",4.8,"(53.9568478, -1.0895837)",53.9568478,-1.0895837
+88,Seven Park Place by William Drabble,London,"7-8 Park Place, London, SW1A 1LS",4.5,"(51.506121, -0.1402233)",51.506121,-0.1402233
+89,Indian Essence,London,"176-178 Petts Wood Road, Petts Wood, London, BR5 1LG",4.5,"(51.3903227, 0.075521)",51.3903227,0.075521
+90,La Trompette,London,"5-7 Devonshire Road, Chiswick, London, W4 2EU",4.6,"(51.4920787, -0.2559853)",51.4920787,-0.2559853
+91,Crab House Cafe,Wyke Regis,"Ferrymans Way, Portland Road, Wyke Regis, DT4 9YU",4.7,"(50.585807,-2.4743774)",50.585807,-2.4743774
+92,Joro,Sheffield,"294 Shalesmoor, Sheffield, S3 8US",4.7,"(53.3882439, -1.4758496)",53.3882439,-1.4758496
+93,Kahani,London,"1 Wilbraham Place, London, SW1X 9AE",4.4,"(51.494070,-0.1573070)",51.49407,-0.157307
+94,Ormer Mayfair,London,"7-12 Half Moon Street, Mayfair, London, W1J 7BH",4.7,"(51.5059517, -0.144664)",51.5059517,-0.144664
+95,Box Tree,Ilkley,"35-37 Church Street, Ilkley, LS29 9DR",4.7,"(53.9261027, -1.8257323)",53.9261027,-1.8257323
+96,The Barbary,London,"16 Neal's Yard, Bloomsbury, London, WC2H 9DP",4.6,"(51.5144072, -0.1261845)",51.5144072,-0.1261845
+97,John's House,Mountsorrel,"139-141 Loughborough Road, Mountsorrel, LE12 7AR",4.9,"(52.732871,-1.1458913)",52.732871,-1.1458913
+98,Pollen Street Social,London,"8-10 Pollen Street, London, W1S 1NQ",4.6,"(51.513361, -0.1422525)",51.513361,-0.1422525
+99,The Small Holding,Cranbrook,"Ranters Lane, Kilndown, Cranbrook, TN17 2SG",4.6,"(51.092071,0.4276332)",51.092071,0.4276332
+100,Trishna,London,"15-17 Blandford Street, London, W1U 3DG",4.3,"(51.5183432, -0.1530705)",51.5183432,-0.1530705
