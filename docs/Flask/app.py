@@ -18,7 +18,7 @@ table_top_10 = db["items"].find().limit(10)
 @app.route("/")
 def home():
     
-    return render_template("home.html", text="Top 20 Leading Restaurants in the UK", headings = headings, data=data)
+    return render_template("index.html", text="Top 20 Leading Restaurants in the UK", headings = headings, data=data)
 
 @app.route("/restaurants/")
 def rest():
