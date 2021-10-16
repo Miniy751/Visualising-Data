@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project3 Group1 Template</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='reset.css') }}">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='style.css') }}">
+  </head>
+  <body>  
+        <div class="wrapper">
+            <div class="card card-wide text-center">
+                <h1>restaurants</h1>
+            </div class="col-md-04">
+            {% for rest in restaurants %}
+                <a href="{{ rest.link }}" class="card center">
+                    <h2>{{ rest.restaurant_name }}</h2>
+                    <p>{{ rest.location }}</p>
+                    <p>{{ rest.ratings }}</p>
+                </a>
+            {% endfor %}
+        </div>
+    </body>
+</html>
+
